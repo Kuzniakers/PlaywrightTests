@@ -4,7 +4,7 @@
 - course https://jaktestowac.pl/course/playwright-wprowadzenie/
 - test site https://demo-bank.vercel.app/  
 
-## Commands
+## Commands for myself
 - check `NodeJS` version  
 `node -v`
 - new project with Playwright  
@@ -32,7 +32,7 @@ hit twice <kbd>Ctrl</kbd> + <kbd>C</kbd>
     // },
     ```
 
-## Visual Studio Code
+## Visual Studio Code new features
 - Preview: for README.md
 - Autosave: in File -> Auto Save
 - Timeline: file context menu -> Open Timeline
