@@ -2,7 +2,7 @@
 
 ## Links
 - course https://jaktestowac.pl/course/playwright-wprowadzenie/
-- test site https://demo-bank.vercel.app/  
+- tested site https://demo-bank.vercel.app/  
 
 ## Commands for myself
 - check `NodeJS` version  
