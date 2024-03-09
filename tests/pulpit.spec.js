@@ -18,7 +18,7 @@ test.describe('Pulpit test', () => {
         
       });
 
-      test.only('successful mobile top-up', async ({page}) => {
+      test('successful mobile top-up', async ({page}) => {
 
         await page.goto('https://demo-bank.vercel.app/pulpit.html');
         await page.getByTestId('login-input').fill('testerlo');
